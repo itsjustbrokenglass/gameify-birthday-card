@@ -1,4 +1,4 @@
-# rock-climbing-game
+# A short climbing game 
 
 ### A small game that I made for my climber friend's birthday! First time with pygame and I hope the art suffices :P
 
